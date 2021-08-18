@@ -16,7 +16,7 @@ console.log(persona);
  function Tarea(nombre, urgencia){
 
     this.nombre = nombre;
-    this.urgencia = urgencia
+    this.urgencia = urgencia;
  }
 
  const tarea1 = Tarea('Aprender Js y React', 'Urgente');
