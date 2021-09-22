@@ -25,7 +25,7 @@ console.log(persona);
  const tarea4 = Tarea('Pulir Habilidades Laravel', 'Urgente');
 
 
- 'use strict'
+
 
 // FUNCIONES
 
