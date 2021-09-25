@@ -20,9 +20,9 @@ const canciones = [ 'Hallow', 'Lost On You', 'One Last Time' ];
 
 // Nueva Forma
 
-const bandaFavorita = {banda,genero,canciones}
+// const bandaFavorita = {banda,genero,canciones}
 
-console.log(bandaFavorita);
+// console.log(bandaFavorita);
 
 // Funciones en Objetos ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 //
@@ -51,5 +51,5 @@ const persona2 = {
     console.log(`${this.nombre} es ${this.trabajo} web y tiene ${this.edad} años de edad`);
   }
 }
-persona2.mostrarInfo();
+persona2.mostrarInfo(); 
 
